@@ -23,8 +23,6 @@
         "sph/lane.c",
 		"sph/luffa.c",
 		"sph/lyra2.c",
-        "sph/Lyra2RE.c",
-        "sph/md_helper.c",
         "sph/panama.c",
 		"sph/sha2.c",
 		"sph/shabal.c",
