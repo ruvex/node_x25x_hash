@@ -1,4 +1,4 @@
-node-x22i
+node-x25x
 ===============
 Cryptocurrency hashing functions for SIN
 
@@ -10,4 +10,4 @@ var x25x = require('node-x25x');
 var buf = Buffer.from('password', 'utf8');
 var hash = x25x.x25x(buf);
 console.log(hash);
-// => <Buffer cb 78 00 4e 36 14 56 0b c1 98 cd e0 5b 17 a5 06 13 7c ac 77 5a cf e0 fc 4e e2 cf 23 30 54 2a 17>
+// => <Buffer 13 9c 16 0c a5 5f 02 e2 81 c6 9e fe b9 6b 8b c1 86 a2 d7 3b 17 66 56 20 ae 51 ac 45 e5 78 90 a1>
